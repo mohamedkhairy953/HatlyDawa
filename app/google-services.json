@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "141983995421",
-    "firebase_url": "https://pharmacyin-89080.firebaseio.com",
-    "project_id": "pharmacyin-89080",
-    "storage_bucket": "pharmacyin-89080.appspot.com"
+    "project_number": "272911942898",
+    "firebase_url": "https://hatlydawa.firebaseio.com",
+    "project_id": "hatlydawa",
+    "storage_bucket": "hatlydawa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:141983995421:android:7be227d3d3a1aff4",
+        "mobilesdk_app_id": "1:272911942898:android:165cacc3d8480d04",
         "android_client_info": {
-          "package_name": "com.example.moham.navdrawerexample1"
+          "package_name": "com.example.moham.hatledawa"
         }
       },
       "oauth_client": [
         {
-          "client_id": "141983995421-uiqjq8mncdkvl1si3l7tr6r6p6kmsg5o.apps.googleusercontent.com",
+          "client_id": "272911942898-9l1ojbl2us2i3qiismvc1u0hgrepcauj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDWq2Tt4jm070Y2mwpbLd3ruchEwQNDbO0"
+          "current_key": "AIzaSyC2k17jrpNe3k-TeJ0Vg_1jh2bbiZwg7qc"
         }
       ],
       "services": {

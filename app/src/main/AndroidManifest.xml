@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/NoActionBar">
         <activity
-            android:name=".Activities.DawaActivity"
+            android:name=".MainActivity"
             android:theme="@style/NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,15 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".Activities.LoginActivity"
-            android:theme="@style/NoActionBar" />
-        <activity
-            android:name=".Activities.RegisterActivity"
-            android:theme="@style/NoActionBar" />
-        <activity
-            android:name=".Activities.ProfileActivity"
-            android:theme="@style/NoActionBar"></activity>
+
     </application>
 
 </manifest>
